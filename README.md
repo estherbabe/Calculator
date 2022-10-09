@@ -1,2 +1,2 @@
 # Calculator
-Created with CodeSandbox
+Created with React on CodeSandbox
